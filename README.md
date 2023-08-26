@@ -36,5 +36,5 @@ Invierte una cadena de texto, es decir, coloca los caracteres en orden inverso.
 
 # `str_repeat`
 Repite una cadena de texto un número específico de veces.
-# `!in_arrayt`
+# `!in_array`
 es una función útil para buscar valores en un array y determinar si están presentes o no.
